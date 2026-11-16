@@ -12,7 +12,7 @@ const CLICK_AD_URL =
   'https://araplhn.org/4/21dd3f9576ba0a05b7b4e29258b73b11';
 
 // Cooldown 15 detik
-const CLICK_INTERVAL_MS = 15 * 1000;
+const CLICK_INTERVAL_MS = 10 * 1000;
 
 // Elemen yang tidak memicu iklan
 const IGNORE = [
