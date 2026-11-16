@@ -1,6 +1,6 @@
 # DonghuaWatch
 
-Situs nonton donghua subtitle Indonesia. Dibuat dengan Next.js 14 (App Router), TypeScript, dan Tailwind CSS, dengan tampilan neobrutalism abu-abu dan emas. Siap di-deploy ke Vercel.
+Situs nonton donghua subtitle Indonesia. Dibuat dengan Next.js 14 (App Router), TypeScript, dan Tailwind CSS, dengan tampilan neobrutalism abu-abu dan emas.
 
 Situs: https://donghuawatch.web.id
 
